@@ -1,0 +1,1 @@
+A projekt célja egy PC távirányító alkalmazás fejlesztése android platformon.
